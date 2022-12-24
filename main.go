@@ -7,7 +7,7 @@ func main() {
 
 	fmt.Print("enter your name : ")
 	fmt.Scan(&name)//scans for use input  
-	fmt.Println("Your name is:", name)
+	fmt.Println("hello", name , "nice to meet you")
 }
 // this is how you scan for user input in varibles 
 
